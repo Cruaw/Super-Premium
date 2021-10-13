@@ -1,57 +1,57 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Azteca Uno"  group-title="Mexico",Azteca Uno
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png" tvg-name="Azteca Uno"  group-title="Mexico",Azteca Uno
 http://iptvglobal.site:25461/TVLux1309/130811.07p/278
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Las Estrellas HD"  group-title="Mexico",Las Estrellas HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png" tvg-name="Las Estrellas HD"  group-title="Mexico",Las Estrellas HD
 http://iptvglobal.site:25461/TVLux1309/130811.07p/279
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Conecta TV"  group-title="Mexico",Conecta TV
 http://iptvglobal.site:25461/TVLux1309/130811.07p/65355
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="DW FHD"  group-title="Mexico",DW FHD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle.png" tvg-name="DW FHD"  group-title="Mexico",DW FHD
 http://iptvglobal.site:25461/TVLux1309/130811.07p/65357
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Canal 10 Cancún"  group-title="Mexico",Canal 10 Cancún
 http://iptvglobal.site:25461/TVLux1309/130811.07p/65351
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Azteca 7"  group-title="Mexico",Azteca 7
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" tvg-name="Azteca 7"  group-title="Mexico",Azteca 7
 http://iptvglobal.site:25461/TVLux1309/130811.07p/272
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Las estrellas -2 HD"  group-title="Mexico",Las estrellas -2 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png" tvg-name="Las estrellas -2 HD"  group-title="Mexico",Las estrellas -2 HD
 http://iptvglobal.site:25461/TVLux1309/130811.07p/281
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Foro TV"  group-title="Mexico",Foro TV
 http://iptvglobal.site:25461/TVLux1309/130811.07p/282
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Galavision HD"  group-title="Mexico",Galavision HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico.png" tvg-name="Galavision HD"  group-title="Mexico",Galavision HD
 http://iptvglobal.site:25461/TVLux1309/130811.07p/283
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Las Estrellas"  group-title="Mexico",Las Estrellas
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png" tvg-name="Las Estrellas"  group-title="Mexico",Las Estrellas
 http://iptvglobal.site:25461/TVLux1309/130811.07p/266
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Azteca 7"  group-title="Mexico",Azteca 7
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" tvg-name="Azteca 7"  group-title="Mexico",Azteca 7
 http://iptvglobal.site:25461/TVLux1309/130811.07p/277
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Multimedio Plus"  group-title="Mexico",Multimedio Plus
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus.png" tvg-name="Multimedio Plus"  group-title="Mexico",Multimedio Plus
 http://iptvglobal.site:25461/TVLux1309/130811.07p/79264
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Canal 14"  group-title="Mexico",Canal 14
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_mexico.png" tvg-name="Canal 14"  group-title="Mexico",Canal 14
 http://iptvglobal.site:25461/TVLux1309/130811.07p/79263
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="UCL TV"  group-title="Mexico",UCL TV
 http://iptvglobal.site:25461/TVLux1309/130811.07p/65369
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Las Estrellas FHD"  group-title="Mexico",Las Estrellas FHD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png" tvg-name="Las Estrellas FHD"  group-title="Mexico",Las Estrellas FHD
 http://iptvglobal.site:25461/TVLux1309/130811.07p/250
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Mega"  group-title="Mexico",Mega
 http://iptvglobal.site:25461/TVLux1309/130811.07p/70692
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Canal 5"  group-title="Mexico",Canal 5
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico.png" tvg-name="Canal 5"  group-title="Mexico",Canal 5
 http://iptvglobal.site:25461/TVLux1309/130811.07p/45
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="France 24 Espa�ol"  group-title="Mexico",France 24 Espa�ol
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="France 24 Español"  group-title="Mexico",France 24 Español
 http://iptvglobal.site:25461/TVLux1309/130811.07p/65364
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Locomotion TV"  group-title="Mexico",Locomotion TV
@@ -90,10 +90,10 @@ http://iptvglobal.site:25461/TVLux1309/130811.07p/177
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Food Net"  group-title="Cultura",Food Net
 http://iptvglobal.site:25461/TVLux1309/130811.07p/66492
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="History"  group-title="Cultura",History
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica.png" tvg-name="History"  group-title="Cultura",History
 http://iptvglobal.site:25461/TVLux1309/130811.07p/79798
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="History"  group-title="Cultura",History
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica.png" tvg-name="History"  group-title="Cultura",History
 http://iptvglobal.site:25461/TVLux1309/130811.07p/66504
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="ID"  group-title="Cultura",ID
@@ -138,7 +138,7 @@ http://iptvglobal.site:25461/TVLux1309/130811.07p/187
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Discovery Theather HD"  group-title="Cultura",Discovery Theather HD
 http://iptvglobal.site:25461/TVLux1309/130811.07p/181
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="History SD"  group-title="Cultura",History SD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica.png" tvg-name="History SD"  group-title="Cultura",History SD
 http://iptvglobal.site:25461/TVLux1309/130811.07p/185
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Discovery Turbo"  group-title="Cultura",Discovery Turbo
@@ -171,7 +171,7 @@ http://rosespace.live:25461/08Ptvfc209/08093.22p/301
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/antena_3.png" tvg-name="Antena 3 MX"  group-title="Cultura",Antena 3 MX
 http://rosespace.live:25461/08Ptvfc209/08093.22p/330
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.gatotv.com/canal/historia_espana" tvg-name="History"  group-title="Cultura",History
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica.png" tvg-name="History"  group-title="Cultura",History
 http://rosespace.live:25461/08Ptvfc209/08093.22p/314
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica.png" tvg-name="NatGeo"  group-title="Cultura",NatGeo
@@ -198,7 +198,7 @@ http://rosespace.live:25461/08Ptvfc209/08093.22p/344
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica.png" tvg-name="Lifetime"  group-title="Cultura",Lifetime
 http://rosespace.live:25461/08Ptvfc209/08093.22p/342
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv.png" tvg-name="�Hola TV!"  group-title="Cultura",�Hola TV!
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv.png" tvg-name="Hola TV!"  group-title="Cultura",Hola TV!
 http://rosespace.live:25461/08Ptvfc209/08093.22p/405
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet.png" tvg-name="Gourmet"  group-title="Cultura",Gourmet
@@ -246,7 +246,7 @@ http://iptvglobal.site:25461/TVLux1309/130811.07p/264
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Unimas"  group-title="Entretenimiento",Unimas
 http://iptvglobal.site:25461/TVLux1309/130811.07p/56991
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Galavision"  group-title="Entretenimiento",Galavision
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" tvg-name="Galavision"  group-title="Entretenimiento",Galavision
 http://iptvglobal.site:25461/TVLux1309/130811.07p/56992
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Comedy Central"  group-title="Entretenimiento",Comedy Central
@@ -294,7 +294,7 @@ http://rosespace.live:25461/08Ptvfc209/08093.22p/207
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="TBS"  group-title="Entretenimiento",TBS
 http://iptvglobal.site:25461/TVLux1309/130811.07p/261
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name=""#EXTINF:-1 tvg-logo=""http://127.0.0.1/"" group-title=""Entretenimiento"" Distrito Comedia""  group-title="Entretenimiento","#EXTINF:-1 tvg-logo=""http://127.0.0.1/"" group-title=""Entretenimiento"" Distrito Comedia"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name=" Distrito Comedia"  group-title="Unsorted", Distrito Comedia
 http://iptvglobal.site:25461/TVLux1309/130811.07p/256
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Space"  group-title="Entretenimiento",Space
@@ -711,7 +711,7 @@ http://rosespace.live:25461/08Ptvfc209/08093.22p/96
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sky_Televison_logo.svg/1200px-Sky_Televison_logo.svg.png" tvg-name="Channel 98"  group-title="24 Horas",Channel 98
 http://rosespace.live:25461/08Ptvfc209/08093.22p/98
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sky_Televison_logo.svg/1200px-Sky_Televison_logo.svg.png" tvg-name=""Movies 1 ""Westerns""""  group-title="24 Horas","Movies 1 ""Westerns"""
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sky_Televison_logo.svg/1200px-Sky_Televison_logo.svg.png" tvg-name="Movies 1 Westerns"  group-title="24 Horas",Movies 1 Westerns
 http://rosespace.live:25461/08Ptvfc209/08093.22p/94
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sky_Televison_logo.svg/1200px-Sky_Televison_logo.svg.png" tvg-name="Johnny Carzon"  group-title="24 Horas",Johnny Carzon
@@ -756,7 +756,7 @@ http://rosespace.live:25461/08Ptvfc209/08093.22p/29
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://storage.qoo-static.com/game/7962/g9BjpeOBrTGUzwYfZtlaTRw8T0Ft24jJ.jpg" tvg-name="One Piece"  group-title="24 Horas",One Piece
 http://rosespace.live:25461/08Ptvfc209/08093.22p/24
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sky_Televison_logo.svg/1200px-Sky_Televison_logo.svg.png" tvg-name="Nosey esc�ndalos"  group-title="24 Horas",Nosey esc�ndalos
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sky_Televison_logo.svg/1200px-Sky_Televison_logo.svg.png" tvg-name="Nosey escandalos"  group-title="24 Horas",Nosey escandalos
 http://rosespace.live:25461/08Ptvfc209/08093.22p/23
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sky_Televison_logo.svg/1200px-Sky_Televison_logo.svg.png" tvg-name="Misterios sin Resolver"  group-title="24 Horas",Misterios sin Resolver
